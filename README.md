@@ -4,7 +4,7 @@
 <h3 align="center">A passionate CS Student from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+MERN+Stack;Occasionally+Do+CP;Open+to+Collaboration!&center=true&width=440&height=45&color=077cfb&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+MERN+Stack;Occasionally+Do+Competitive+Programming;Open+to+Collaboration!&center=true&width=440&height=45&color=077cfb&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravdas713&label=Profile%20views&color=0e75b6&style=flat" alt="souravdas713" /> </p>
