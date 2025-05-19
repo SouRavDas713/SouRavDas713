@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sourav+Das" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=f62c21&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sourav+Das" alt="Typing SVG" />
 </p>
 <h3 align="center">A passionate CS Student from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+MERN+Stack;Occasionally+Do+CP;Open+to+Collaboration!&center=true&width=440&height=45&color=0E75B6&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+MERN+Stack;Occasionally+Do+CP;Open+to+Collaboration!&center=true&width=440&height=45&color=077cfb &vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravdas713&label=Profile%20views&color=0e75b6&style=flat" alt="souravdas713" /> </p>
