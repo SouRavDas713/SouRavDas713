@@ -1,42 +1,82 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=f62c21&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sourav+Das" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F62C21&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sourav+Das;Competitive+Programmer;MERN+Stack+Learner;Always+Learning+New+Things" />
 </p>
-<h3 align="center">A passionate CS Student from Bangladesh</h3>
+
+<h3 align="center">A passionate Computer Science student from Bangladesh 🇧🇩</h3>
+
+---
+
+# 💫 About Me
+
+* 🔭 Currently learning **MERN Stack**
+* 🌱 Practicing **Competitive Programming**
+* 💡 Interested in **Web Development & Algorithms**
+* 📫 Reach me: **[sdsourav713@gmail.com](mailto:sdsourav713@gmail.com)**
+
+---
+
+# 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sourav-chandra-das-b63457242/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://codeforces.com/profile/Moon713Stone">
+<img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces" />
+</a>
+
+<a href="https://www.codechef.com/users/moon713stone">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<a href="https://leetcode.com/Moon713Stone">
+<img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode" />
+</a>
+</p>
+
+---
+
+# 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,mongodb,git,tailwind" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+MERN+Stack;A+Newbie+Competitive+Programmer;Open+to+Collaboration!&center=true&width=440&height=45&color=077cfb&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=souravdas713&show_icons=true&theme=gruvbox&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravdas713&theme=gruvbox&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravdas713&layout=compact&theme=gruvbox&hide_border=true"/>
+
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravdas713&label=Profile%20views&color=0e75b6&style=flat" alt="souravdas713" /> </p>
+---
 
-- 🔭 I’m currently Learning **MERN Stack**
+# 🏆 GitHub Trophies
 
-- 🌱 A newbie do **Competitive Programming**
-
-- 📫 How to reach me **sdsourav713@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/moon713stone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="moon713stone" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/moon713stone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moon713stone" height="30" width="40" /></a>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=souravdas713&theme=gruvbox&no-frame=true&row=1&column=7"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+---
+
+# 💻 Codeforces Stats
+
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Moon713Stone&theme=gruvbox"/>
 </p>
 
+---
 
+# 📊 LeetCode Stats
 
-<h3 align="left">💻 Codeforces Stats:</h3>
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Moon713Stone&theme=default" alt="Codeforces Stats" />
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Moon713Stone?theme=dark&font=baloo&border=0"/>
 </p>
