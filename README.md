@@ -64,7 +64,7 @@
 
 
 <p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Moon713Stone&theme=gruvbox" height="200"/>
+
 <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Moon713Stone&theme=gruvbox" height="200"/>
 </p>
 
