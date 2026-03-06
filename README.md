@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F62C21&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sourav+Das;Competitive+Programmer;MERN+Stack+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=F62C21&center=true&vCenter=true&width=600&lines=Hi!+I+am+Sourav;Competitive+Programmer;MERN+Stack+Learner" />
 </p>
 
-<h3 align="center">A passionate Computer Science student from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Computer Science student from Bangladesh </h3>
 
 ---
 
@@ -67,10 +67,11 @@
 
 ---
 
-# 💻 Codeforces Stats
+
+# 📊 💻 Codeforces Stats:</h3>
 
 <p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Moon713Stone&theme=gruvbox"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Moon713Stone&theme=monokai" />
 </p>
 
 ---
